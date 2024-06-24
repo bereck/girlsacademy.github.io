@@ -80,6 +80,9 @@
 .form_disabled {
 }
 .flow_shape {
+  font-family:"Arial-Black", "Arial Black", sans-serif;
+  font-weight:900;
+  font-style:normal;
 }
 .image1 {
 }
